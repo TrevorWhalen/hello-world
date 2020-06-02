@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Trevor Whalen's test Github commit.
